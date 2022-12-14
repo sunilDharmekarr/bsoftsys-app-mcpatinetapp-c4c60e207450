@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "74734635359",
+    "firebase_url": "https://mumbaiclinicandroid.firebaseio.com",
+    "project_id": "mumbaiclinicandroid",
+    "storage_bucket": "mumbaiclinicandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74734635359:android:90c8bbe7ddad568cbd4eea",
+        "android_client_info": {
+          "package_name": "com.mumbaiclinic.mchealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74734635359-mpcqpjcq0tms3u3577a15tgsjbp0mme9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc6zH65-4aL_6EGEa-oDvN5fwJptcfXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74734635359-mpcqpjcq0tms3u3577a15tgsjbp0mme9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74734635359-54oie1rhu657j368hfer3bmsss7e1838.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.tys.mcmpatient"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

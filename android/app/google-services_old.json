@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "74734635359",
+    "firebase_url": "https://mumbaiclinicandroid.firebaseio.com",
+    "project_id": "mumbaiclinicandroid",
+    "storage_bucket": "mumbaiclinicandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74734635359:android:3044728525496378bd4eea",
+        "android_client_info": {
+          "package_name": "patient.mumbaiclinic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74734635359-mpcqpjcq0tms3u3577a15tgsjbp0mme9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKc6zH65-4aL_6EGEa-oDvN5fwJptcfXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74734635359-mpcqpjcq0tms3u3577a15tgsjbp0mme9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
